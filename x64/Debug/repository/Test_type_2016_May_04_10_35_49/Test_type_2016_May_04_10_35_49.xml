@@ -1,0 +1,14 @@
+  <?xml version="1.0" encoding="utf-8" ?>
+  <!-- metadata of package Test_type_2016_May_04_10_35_49 -->
+  <metadata>
+    <package>Test_type_2016_May_04_10_35_49</package>
+    <user>client_1</user>
+    <timeStamp>1462372549</timeStamp>
+    <files>
+      <fileContain>Test_type_2016_May_04_10_35_49.h</fileContain>
+    </files>
+    <dependency>
+      <depPackage>Test_1_2016_May_01_01_23_45</depPackage>
+    </dependency>
+    <description>Description</description>
+  </metadata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- metadate of package Test_3_2016_May_01_01_23_45 -->
+<metadata>
+  <package>Test_3_2016_May_01_01_23_45</package>
+  <user>client_1</user>
+  <timeStamp>1462329147</timeStamp>
+  <files>
+    <fileContain>Test_3_2016_May_01_01_23_45.h</fileContain>
+  </files>
+  <dependency>
+  </dependency>
+  <description>Description</description>
+</metadata>

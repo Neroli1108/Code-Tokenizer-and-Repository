@@ -1,0 +1,13 @@
+﻿Build started 5/4/16 11:18:52 AM.
+     1>Project "Z:\Desktop\CSE-687\Project4\DependencyAnalysis\DependencyAnalysis.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\DependencyAnalysis.pdb" /Gd /TP /errorReport:prompt DepAnalysis.cpp
+         DepAnalysis.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"Z:\Desktop\CSE-687\Project4\x64\Debug\DependencyAnalysis.lib" /NOLOGO /MACHINE:X64 x64\Debug\DepAnalysis.obj
+         DependencyAnalysis.vcxproj -> Z:\Desktop\CSE-687\Project4\x64\Debug\DependencyAnalysis.lib
+     1>Done Building Project "Z:\Desktop\CSE-687\Project4\DependencyAnalysis\DependencyAnalysis.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29

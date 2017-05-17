@@ -1,0 +1,12 @@
+  <?xml version="1.0" encoding="utf-8" ?>
+  <!-- metadate of package Test_1_ ( time ) -->
+  <metadata>
+    <package>Test_1_time</package>
+    <user>client_1</user>
+    <timeStamp>time</timeStamp>
+    <dependency>
+      <depPackage>Test_2_time</depPackage>
+      <depPackage>Test_3_time</depPackage>
+    </dependency>
+    <description>Description</description>
+  </metadata>

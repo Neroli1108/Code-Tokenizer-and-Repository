@@ -1,0 +1,20 @@
+﻿Build started 5/4/16 11:18:57 AM.
+     1>Project "Z:\Desktop\CSE-687\Project4\XMLEngine\XMLEngine.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /D zTEST_XMLPARSER /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\XmlParser.pdb" /Gd /TP /errorReport:prompt XmlDocument.cpp XmlElement.cpp XmlElementParts.cpp XmlParser.cpp
+         XmlParser.cpp
+         XmlElementParts.cpp
+         XmlElement.cpp
+         XmlDocument.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"Z:\Desktop\CSE-687\Project4\x64\Debug\XmlParser.lib" /NOLOGO /MACHINE:X64 x64\Debug\XmlDocument.obj
+         x64\Debug\XmlElement.obj
+         x64\Debug\XmlElementParts.obj
+         x64\Debug\XmlParser.obj
+         XMLEngine.vcxproj -> Z:\Desktop\CSE-687\Project4\x64\Debug\XmlParser.lib
+     1>Done Building Project "Z:\Desktop\CSE-687\Project4\XMLEngine\XMLEngine.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.10

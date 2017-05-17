@@ -1,0 +1,16 @@
+﻿Build started 5/4/16 11:18:50 AM.
+     1>Project "Z:\Desktop\CSE-687\Project4\ThreadPool\ThreadPool.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\ThreadPool.pdb" /Gd /TP /errorReport:prompt BlockingQueue.cpp ThreadPool.cpp
+         ThreadPool.cpp
+         BlockingQueue.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"Z:\Desktop\CSE-687\Project4\x64\Debug\ThreadPool.lib" /NOLOGO /MACHINE:X64 x64\Debug\BlockingQueue.obj
+         x64\Debug\ThreadPool.obj
+         ThreadPool.vcxproj -> Z:\Desktop\CSE-687\Project4\x64\Debug\ThreadPool.lib
+     1>Done Building Project "Z:\Desktop\CSE-687\Project4\ThreadPool\ThreadPool.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.54

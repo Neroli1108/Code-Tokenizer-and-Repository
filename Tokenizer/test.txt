@@ -1,0 +1,29 @@
+Test
+a;/=
+
++==
+
+abc==abc(();
+
+;;
+
+std::cout << "\n  can't \"asdwsdf\" open " << fileSpec << "\n\n"<<"";
+
+//sadasd
+/*sdfasd*/
+#include <sad>
+class it{
+public:
+    int i = 0;
+private:
+    string sa = "assd";
+};
+int main(){
+a++;
+sad+= sa;
+} 
+for () ; ; ;
+for ( ; ; ) ; ; ;
+for ((); ; ) ; ; ;
+for ((()); ; ) ; ; ;
+for ((); (); ) ; ; ;
