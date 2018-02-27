@@ -1,13 +1,2 @@
-﻿Build started 5/4/16 11:18:45 AM.
-     1>Project "Z:\Desktop\CSE-687\Project4\Utilities\Utilities.vcxproj" on node 3 (Rebuild target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Utilities.pdb" /Gd /TP /errorReport:prompt Utilities.cpp
-         Utilities.cpp
-       Lib:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"Z:\Desktop\CSE-687\Project4\x64\Debug\Utilities.lib" /NOLOGO /MACHINE:X64 x64\Debug\Utilities.obj
-         Utilities.vcxproj -> Z:\Desktop\CSE-687\Project4\x64\Debug\Utilities.lib
-     1>Done Building Project "Z:\Desktop\CSE-687\Project4\Utilities\Utilities.vcxproj" (Rebuild target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:01.15
+﻿  Utilities.cpp
+  Utilities.vcxproj -> D:\ProjectReview\Code Tokenizer and Repository\x64\Debug\Utilities.lib

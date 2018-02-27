@@ -4,8 +4,8 @@
 //  Language:      Visual Studio 2016                              //
 //  Platform:      MacBook Pro, Windows 10                         //
 //  Application:   CSE687 Pr3, Sp16								   //
-//  Author:        Cunyang Shui, Computer Engineering,			   //
-//			       Syracuse University, cushui@syr.edu	           //
+//  Author:        Yunding Li, Computer Engineering,			   //
+//			       Syracuse University, yli327@syr.edu	           //
 //  Source:        Jim Fawcett, Syracuse University, CST 4-187     //
 //                 jfawcett@twcny.rr.com                           //
 /////////////////////////////////////////////////////////////////////

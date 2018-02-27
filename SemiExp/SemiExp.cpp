@@ -3,8 +3,8 @@
 // ver 3.5                                                           //
 // Language:    C++, Visual Studio 2015                              //
 // Application: Parser component, CSE687 - Object Oriented Design    //
-//  Author:		Cunyang Shui, Computer Engineering   		         //
-//				cushui@syr.edu								         //
+//  Author:		Yunding Li, Computer Engineering   		             //
+//				yli327@syr.edu								         //
 //  Source:     Jim Fawcett, Syracuse University, CST 4-187          //
 //              jfawcett@twcny.rr.com                                //
 ///////////////////////////////////////////////////////////////////////
@@ -44,7 +44,7 @@ void SemiExp::detectFor(std::string token) {
 				_semicCounter = 0;
 		}
 }
-//set begine line and end line
+//set begin line and end line
 void SemiExp::pushBackWithLine(std::string tok) {
 	size_t tokenSize = _tokens.size();
 	if (tok != "\n")

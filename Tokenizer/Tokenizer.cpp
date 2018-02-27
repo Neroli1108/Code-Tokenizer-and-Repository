@@ -3,8 +3,8 @@
 // ver 4                                                             //
 // Language:    C++, Visual Studio 2015                              //
 // Application: Parser component, CSE687 - Object Oriented Design    //
-//  Author:		Cunyang Shui, Computer Engineering   		         //
-//				cushui@syr.edu								         //
+//  Author:		Yunding LI, Computer Engineering   		             //
+//				YLI327@SYR.EDU								         //
 //  Source:     Jim Fawcett, Syracuse University, CST 4-187          //
 //              jfawcett@twcny.rr.com                                //
 ///////////////////////////////////////////////////////////////////////
@@ -24,7 +24,7 @@ namespace Scanner
 		std::string token;
 		std::istream* _pIn;
 		std::vector<std::string> sVector = { "<", ">", "[", "]", "(", ")", "{", "}", ":", "=", "+", "-", "*", "\n", ";" };
-		std::vector<std::string> pVector = { "<<", ">>", "::", "++", "--", "==", "+=", "-=", "*=", "/=", "%=", "ˆ=", "&=", "\\=", "!=", ">=", "<=", "&&", "||" };
+		std::vector<std::string> pVector = { "<<", ">>", "::", "++", "--", "==", "+=", "-=", "*=", "/=", "%=", "?", "&=", "\\=", "!=", ">=", "<=", "&&", "||" };
 		int prevChar;
 		int currChar;
 		bool returnComm;

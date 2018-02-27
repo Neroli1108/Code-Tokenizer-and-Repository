@@ -5,8 +5,8 @@
 // ver 3.5                                                           //
 // Language:    C++, Visual Studio 2015                              //
 // Application: Parser component, CSE687 - Object Oriented Design    //
-//  Author:		Cunyang Shui, Computer Engineering   		         //
-//				cushui@syr.edu								         //
+//  Author:		Yunding LI, Computer Engineering   		             //
+//				yli327@syr.edu								         //
 //  Source:     Jim Fawcett, Syracuse University, CST 4-187          //
 //              jfawcett@twcny.rr.com                                //
 ///////////////////////////////////////////////////////////////////////
@@ -19,7 +19,7 @@
 * sequence of tokens that ends in 
 * 1. {, }, ; 
 * 2. '\n' + the line begins with #.
-* 3. prublic, private, or protected + :
+* 3. public, private, or protected + :
 *
 * This is a solution for Project #1.
 *

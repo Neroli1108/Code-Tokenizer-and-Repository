@@ -3,8 +3,8 @@
 // ver 1.0                                                           //
 // Language:    C++, Visual Studio 2015                              //
 // Application: Parser component, CSE687 - Object Oriented Design    //
-//  Author:		Cunyang Shui, Computer Engineering   		         //
-//				cushui@syr.edu								         //
+//  Author:		Yunding Li, Computer Engineering   		             //
+//				yli327@syr.edu								         //
 ///////////////////////////////////////////////////////////////////////
 
 #include "DepAnalysis.h"
